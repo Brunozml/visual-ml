@@ -18,11 +18,11 @@ These images were genereted using the scripts in the `GradDesc` directory.
 <div style="text-align: center;">
     <figure>
         <img src="src/micrograd-animation.gif" width="300" alt="Micrograd NN"/>
-        <figcaption>Micrograd Neural Network Training</figcaption>
+        <figcaption>Micrograd NN Training</figcaption>
     </figure>
     <figure>
         <img src="src/pytorch-animation.gif" width="300" alt="PyTorch NN"/>
-        <figcaption>PyTorch Neural Network Training</figcaption>
+        <figcaption>PyTorch NN Training</figcaption>
     </figure>
 </div>
 
